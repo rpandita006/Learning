@@ -1,0 +1,5 @@
+the first goal is :-
+
+learn Git commands
+Start doing the automation in python 
+take any new project.
